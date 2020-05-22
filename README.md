@@ -1,12 +1,12 @@
 # hms-safetydetect-demo-java
 ## Table of Contents
 
-- [Introduction](https://github.com/HMS-Core/hms-safetydetect-demo-java/blob/master/SafetyDetect-SysIntegrity-Server-Sample/README.md#introduction)
-- [Installation](https://github.com/HMS-Core/hms-safetydetect-demo-java/blob/master/SafetyDetect-SysIntegrity-Server-Sample/README.md#installation)
-- [Configuration](https://github.com/HMS-Core/hms-safetydetect-demo-java/blob/master/SafetyDetect-SysIntegrity-Server-Sample/README.md#configuration)
-- [Supported Environments](https://github.com/HMS-Core/hms-safetydetect-demo-java/blob/master/SafetyDetect-SysIntegrity-Server-Sample/README.md#supported-environments)
-- [Sample Code](https://github.com/HMS-Core/hms-safetydetect-demo-java/blob/master/SafetyDetect-SysIntegrity-Server-Sample/README.md#sample-code)
-- [License](https://github.com/HMS-Core/hms-safetydetect-demo-java/blob/master/SafetyDetect-SysIntegrity-Server-Sample/README.md#license)
+- [Introduction](https://github.com/HMS-Core/hms-safetydetect-demo-java/blob/master/README.md#introduction)
+- [Installation](https://github.com/HMS-Core/hms-safetydetect-demo-java/blob/master/README.md#installation)
+- [Configuration](https://github.com/HMS-Core/hms-safetydetect-demo-java/blob/master/README.md#configuration)
+- [Supported Environments](https://github.com/HMS-Core/hms-safetydetect-demo-java/blob/master/README.md#supported-environments)
+- [Sample Code](https://github.com/HMS-Core/hms-safetydetect-demo-java/blob/master/README.md#sample-code)
+- [License](https://github.com/HMS-Core/hms-safetydetect-demo-java/blob/master/README.md#license)
 
 ## Introduction
 
