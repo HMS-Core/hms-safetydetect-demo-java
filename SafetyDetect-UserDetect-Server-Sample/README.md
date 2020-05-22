@@ -1,4 +1,4 @@
-## SafetyDetect-UserDetect-Server-sample
+## SafetyDetect-UserDetect-Server-Sample
 
 
 ## Table of Contents
@@ -43,7 +43,7 @@ Content-Type: application/json;charset=utf-8
 }
 ```
 More API information please visit 
-https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/31621333
+https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/SafetyDetectUserDetectDevelopment 
 
 ##  License
 SafetyDetect UserDetect Server Sample is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
