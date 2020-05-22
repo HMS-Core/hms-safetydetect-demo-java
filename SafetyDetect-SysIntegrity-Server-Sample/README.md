@@ -1,4 +1,4 @@
-## SafetyDetect-SysIntegrity-Server-sample
+## SafetyDetect-SysIntegrity-Server-Sample
 
 
 ## Table of Contents
@@ -45,7 +45,7 @@ No additional configuration is required.
 }
 ```
 More API information please visit 
-https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/27319309
+https://developer.huawei.com/consumer/en/doc/development/HMS-Guides/SafetyDetectSysIntegrityDevelopment 
 
 ##  License
 SafetyDetect SysIntegrity Server Sample is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
