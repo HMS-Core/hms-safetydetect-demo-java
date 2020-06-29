@@ -1,4 +1,6 @@
-## SafetyDetect-UserDetect-Server-Sample
+# SafetyDetect UserDetect Server Sample
+
+English | [中文](https://github.com/HMS-Core/hms-safetydetect-demo-java/blob/master/SafetyDetect-UserDetect-Server-Sample/README_ZH.md)
 
 
 ## Table of Contents
@@ -14,7 +16,7 @@
 ## Introduction
 SafetyDetect UserDetect Server Sample provides sample program to obtain the detection result.
 
-## Installation
+## Getting Started
 Before using SafetyDetect UserDetect Server Sample code, check whether java environment and Maven has been installed.
 Decompress the SafetyDetect UserDetect Server sample code package.
 

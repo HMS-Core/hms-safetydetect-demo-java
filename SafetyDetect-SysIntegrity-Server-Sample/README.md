@@ -1,5 +1,6 @@
-## SafetyDetect-SysIntegrity-Server-Sample
+# SafetyDetect SysIntegrity Server Sample
 
+English | [中文](https://github.com/HMS-Core/hms-safetydetect-demo-java/blob/master/SafetyDetect-SysIntegrity-Server-Sample/README_ZH.md)
 
 ## Table of Contents
 
@@ -14,7 +15,7 @@
 ## Introduction
 SafetyDetect SysIntegrity Server Sample provides sample program to verify the check result on your server.
 
-## Installation
+## Getting Started
 Before using SafetyDetect SysIntegrity Server Sample code, check whether java environment and Maven has been installed.
 Decompress the SafetyDetect SysIntegrity Server sample code package.
 
