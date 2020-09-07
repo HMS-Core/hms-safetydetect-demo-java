@@ -37,7 +37,7 @@ For details, please refer to Open Platform Authentication.
 Call the cloud-side API to obtain the detection result. The following is a request example:
 
 ```json
-POST https://rms-api.cloud.huawei.com/rms/v1/userRisks/verify?appId=123456 HTTP/1.1
+POST https://hirms.cloud.huawei.com/rms/v1/userRisks/verify?appId=123456 HTTP/1.1
 Content-Type: application/json;charset=utf-8
 {
     "accessToken":"AAWWHI94sgUR2RU5_P1ZptUiwLq7W8XWJO2LxaAPuXw4_HOJFXnBlN-q5_3bwlxVW_SHeDPx_s5bWW-9DjtWZsvcm9CwXe1FHJg0u-D2pcQPcb3sTxDTJeiwEb9WBPl_9w",
