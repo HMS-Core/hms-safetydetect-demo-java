@@ -31,7 +31,7 @@ Java 1.7 及以上
 调用云侧API获取检测结果：调用云侧获取结果。消息请求示例如下所示:
 
 ```json
-POST https://rms-api.cloud.huawei.com/rms/v1/userRisks/verify?appId=123456 HTTP/1.1
+POST https://hirms.cloud.huawei.com/rms/v1/userRisks/verify?appId=123456 HTTP/1.1
 Content-Type: application/json;charset=utf-8
 {
     "accessToken":"AAWWHI94sgUR2RU5_P1ZptUiwLq7W8XWJO2LxaAPuXw4_HOJFXnBlN-q5_3bwlxVW_SHeDPx_s5bWW-9DjtWZsvcm9CwXe1FHJg0u-D2pcQPcb3sTxDTJeiwEb9WBPl_9w",
