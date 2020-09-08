@@ -65,8 +65,8 @@ public class UserDetectServiceImpl implements UserDetectService {
     private static final String APP_ID = "101496927";
     //TODO(developer):replace the SECRET_KEY id with your own secret key
     private static final String SECRET_KEY = "18ec7dda1b2e599f14e4c9b98e78fc0e1515f5b3c4271df28c80209dc772dd02";
-    //TODO(developer):replace the VERIFY_URL id with rms website depends on area
-    private static final String VERIFY_URL = "https://rms-drru.platform.dbankcloud.com/rms/v1/userRisks/verify";
+    //TODO(developer):replace the VERIFY_URL id with rms website depends on area 
+    private static final String VERIFY_URL = "https://hirms.cloud.huawei.com/rms/v1/userRisks/verify";
 
     @Override
     public String verify(String responseToken) {
