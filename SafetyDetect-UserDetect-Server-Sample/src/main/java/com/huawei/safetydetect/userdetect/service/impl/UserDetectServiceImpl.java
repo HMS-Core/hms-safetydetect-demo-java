@@ -62,9 +62,9 @@ public class UserDetectServiceImpl implements UserDetectService {
 
     private static final String OAUTH2_URL = "https://oauth-login.cloud.huawei.com/oauth2/v2/token";
     //TODO(developer):replace the APP_ID id with your own app id
-    private static final String APP_ID = "101496927";
+    private static final String APP_ID = "XXXXXXXX";
     //TODO(developer):replace the SECRET_KEY id with your own secret key
-    private static final String SECRET_KEY = "18ec7dda1b2e599f14e4c9b98e78fc0e1515f5b3c4271df28c80209dc772dd02";
+    private static final String SECRET_KEY = "XXXXXXXX";
     //TODO(developer):replace the VERIFY_URL id with rms website depends on area 
     private static final String VERIFY_URL = "https://hirms.cloud.huawei.com/rms/v1/userRisks/verify";
 
